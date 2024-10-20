@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"> 
-    <img src="https://w7.pngwing.com/pngs/854/971/png-transparent-blazor-hd-logo-thumbnail.png" alt="blazor" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/B/blazor-logo-28A9304DC6-seeklogo.com.png" alt="blazor" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
