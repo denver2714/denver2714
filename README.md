@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kurtdenverchavez2005@gmail.com**
 
-- ⚡ Fun fact **I hate JavaScript**
+- ⚡ Fun fact **C++ Was My First Programming Language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
