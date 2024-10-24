@@ -76,3 +76,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denver2714&show_icons=true&locale=en" alt="denver2714" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denver2714&" alt="denver2714" /></p>
+
+![snake gif](https://github.com/denver2714/denver2714/blob/output/github-snake-dark.svg)
+
