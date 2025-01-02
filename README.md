@@ -36,9 +36,6 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://blog.paperspace.com/content/images/size/w1750/2019/11/flasklogo.jpg" alt="flask" width="40" height="40"/> 
-  </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
@@ -67,7 +64,10 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
   </a>
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-    <img src="https://intelequia.com/DesktopModules/Blog/BlogImage.ashx?TabId=276&ModuleId=1172&Blog=14&Post=3190&w=991&h=714&c=1&key=4097b1a3-2ece-4382-b3e2-3f19ebb2c5a4" alt="blazor" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://e7.pngegg.com/pngimages/779/111/png-clipart-flask-python-web-framework-web-application-tutorial-others-miscellaneous-monochrome.png" alt="flask" width="40" height="40"/>
   </a>
 </p>
 
