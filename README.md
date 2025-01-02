@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://blog.paperspace.com/content/images/size/w1750/2019/11/flasklogo.jpg" alt="flask" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -67,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
   </a>
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/B/blazor-logo-28A9304DC6-seeklogo.com.png" alt="blazor" width="40" height="40"/>
+    <img src="https://intelequia.com/DesktopModules/Blog/BlogImage.ashx?TabId=276&ModuleId=1172&Blog=14&Post=3190&w=991&h=714&c=1&key=4097b1a3-2ece-4382-b3e2-3f19ebb2c5a4" alt="blazor" width="40" height="40"/>
   </a>
 </p>
 
@@ -78,4 +78,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denver2714&" alt="denver2714" /></p>
 
 ![snake gif](https://github.com/denver2714/denver2714/blob/output/github-snake-dark.svg)
-
