@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denver</h1>
 <h3 align="center">The Sky Is The Limit</h3>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denver2714&label=Profile%20views&color=0e75b6&style=flat" alt="denver2714" /> </p>
 
