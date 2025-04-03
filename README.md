@@ -2,7 +2,6 @@
 <p>🌱 I am currently learning NextJS and Redux</p>
 
 ![Currently](https://img.shields.io/badge/currently-online-green?style=flat-square)
-![Playing](https://img.shields.io/badge/playing-nothing%20rn-blue?style=flat-square)
 ![Coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat-square&logo=visualstudiocode)
 ![Listening](https://img.shields.io/badge/listening%20to-nothing%20rn-green?style=flat-square&logo=spotify)
 ![Profile Views](https://komarev.com/ghpvc/?username=denver2714&color=blue)
@@ -15,7 +14,7 @@
 
 <h2>Languages and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal&theme=dark&perline=8)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal&theme=dark)](https://skillicons.dev)  
 
 
 <h2>Databases </h2>
