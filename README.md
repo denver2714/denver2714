@@ -12,7 +12,17 @@
 <a href="https://instagram.com/_dnvvrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dnvvrrr" height="30" width="40" /></a>
 </p>
 
+
+
 <p align="center">
+  <a href="https://skillicons.dev">
+    
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal&theme=dark&perline=8)](https://skillicons.dev)  
+  </a>
+</p>
+
+
+
 <h2>Languages and Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal&theme=dark&perline=8)](https://skillicons.dev)  
@@ -45,6 +55,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denver2714&show_icons=true&locale=en" alt="denver2714" /></p>
 
-</p>
+
  
 
