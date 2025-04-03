@@ -2,7 +2,7 @@
 <p>I love coding, though there are times when I feel frustrated by it. But overall, coding is a passion of mine!</p>
 
 
-<h2>Languages</h2>
+<h2>Languages and Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts&theme=dark)](https://skillicons.dev)  
 
