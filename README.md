@@ -18,7 +18,7 @@
 
 <h2>Languages and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal,bash,regex,npm,powershell,pr,stackoverflow,selenium&theme=dark)](https://skillicons.dev)  
 
 
 <h2>Databases </h2>
@@ -38,10 +38,6 @@
 <h2>Version Control</h2> 
 
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev) 
-
-<h2>Other Tools</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=bash,regex,npm,powershell,pr,stackoverflow,selenium&theme=dark)](https://skillicons.dev) 
 
 ![Currently](https://img.shields.io/badge/currently-online-green?style=flat-square)
 ![Coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat-square&logo=visualstudiocode)
