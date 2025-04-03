@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Denver</h1>
-<p>🌱 I am currently learning NextJS and Redux</p>
+
+- 🌱 I’m currently learning **NextJS and Redux**
+
+- 💬 Ask me about **Move Semantics, Pointer Ownership, and Memory Management**
+
+- 📫 How to reach me **kurtdenverchavez2005@gmail.com**
+
+- ⚡ Fun fact **C++ was my first programming language**
+
 
 ![Currently](https://img.shields.io/badge/currently-online-green?style=flat-square)
 ![Coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat-square&logo=visualstudiocode)
