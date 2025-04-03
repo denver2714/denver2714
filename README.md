@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts&theme=dark)](https://skillicons.dev)  
 
-<h2>FrontEnd and BackEnd</h2>
+<h2>Frontend and Backend</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet&theme=dark)](https://skillicons.dev)
 
