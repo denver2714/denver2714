@@ -14,16 +14,17 @@
 
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal&theme=dark&perline=8)](https://skillicons.dev)  
-  </a>
-</p>
 
 
 
 <h2>Languages and Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal&theme=dark&perline=8" />
+  </a>
+</p>
+
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal&theme=dark&perline=8)](https://skillicons.dev)  
 
