@@ -4,12 +4,7 @@
 
 <h2>Languages and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts&theme=dark)](https://skillicons.dev)  
-
-<h2>Frontend and Backend</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet&theme=dark&perline=8)](https://skillicons.dev)  
 
 <h2>Development Tools</h2>
 
