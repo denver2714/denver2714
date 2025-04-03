@@ -4,12 +4,12 @@
 
 <h2>Languages and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,bash,dotnet,html,js,ts,regex,react,redux,flask,sqlite,tailwind,unreal,vite,nextjs,bootstrap,figma,eclipse,npm,powershell,pr,stackoverflow,selenium&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,bash,dotnet,html,js,ts,regex,react,redux,flask,sqlite,tailwind,unreal,vite,nextjs,bootstrap,figma,npm,powershell,pr,stackoverflow,selenium&theme=dark)](https://skillicons.dev)  
 
 
 <h2>Development Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm&theme=dark)](https://skillicons.dev)
 
 
 <h2>Operating Systems: </h2>
