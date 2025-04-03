@@ -6,6 +6,7 @@
 ![Coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat-square&logo=visualstudiocode)
 ![Listening](https://img.shields.io/badge/listening%20to-nothing%20rn-green?style=flat-square&logo=spotify)
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -44,6 +45,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denver2714&show_icons=true&locale=en&layout=compact" alt="denver2714" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denver2714&show_icons=true&locale=en" alt="denver2714" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denver2714&" alt="denver2714" /></p>
+ 
 
