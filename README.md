@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Denver</h1>
-<p>I love coding, though there are times when I feel frustrated by it. But overall, coding is a passion of mine!</p>
+<p>🌱 I am currently learning NextJS and Redux</p>
 
+![Currently](https://img.shields.io/badge/currently-online-green?style=flat-square)
+![Playing](https://img.shields.io/badge/playing-nothing%20rn-blue?style=flat-square)
+![Coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat-square&logo=visualstudiocode)
+![Listening](https://img.shields.io/badge/listening%20to-nothing%20rn-green?style=flat-square&logo=spotify)
 
 <h2>Languages and Tools</h2>
 
@@ -29,8 +33,5 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,regex,npm,powershell,pr,stackoverflow,selenium&theme=dark)](https://skillicons.dev) 
 
 
-![Currently](https://img.shields.io/badge/currently-online-green?style=flat-square)
-![Playing](https://img.shields.io/badge/playing-nothing%20rn-blue?style=flat-square)
-![Coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat-square&logo=visualstudiocode)
-![Listening](https://img.shields.io/badge/listening%20to-nothing%20rn-green?style=flat-square&logo=spotify)
+
 
