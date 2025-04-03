@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm&theme=dark)](https://skillicons.dev)
 
 
-<h2>Operating Systems: </h2?
+<h2>Operating Systems: </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=apple,linux,ubuntu,windows&theme=dark)](https://skillicons.dev) 
 
