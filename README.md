@@ -2,7 +2,7 @@
 <p>I love coding, though there are times when I feel frustrated by it. But overall, coding is a passion of mine!</p>
 
 
-<h2>Languages/h2>
+<h2>Languages </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts&theme=dark)](https://skillicons.dev)  
 
@@ -13,7 +13,7 @@
 
 <h2>Back End</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=flask,dotnet, nextjs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,dotnet,nextjs&theme=dark)](https://skillicons.dev)
 
 <h2>Development Tools:</h2>
 
