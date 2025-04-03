@@ -6,14 +6,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts&theme=dark)](https://skillicons.dev)  
 
-<h2>Front End</h2>
+<h2>FrontEnd and BackEnd</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,vite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet&theme=dark)](https://skillicons.dev)
 
-
-<h2>Back End</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=flask,dotnet,nextjs&theme=dark)](https://skillicons.dev)
 
 <h2>Development Tools:</h2>
 
