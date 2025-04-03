@@ -6,6 +6,13 @@
 ![Coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat-square&logo=visualstudiocode)
 ![Listening](https://img.shields.io/badge/listening%20to-nothing%20rn-green?style=flat-square&logo=spotify)
 
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_dnvvrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dnvvrrr" height="30" width="40" /></a>
+</p>
+
 <h2>Languages and Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal&theme=dark&perline=8)](https://skillicons.dev)  
