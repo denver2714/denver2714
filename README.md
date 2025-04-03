@@ -4,7 +4,7 @@
 
 <h2>Languages and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet&theme=dark&perline=8)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal&theme=dark&perline=8)](https://skillicons.dev)  
 
 <h2>Development Tools</h2>
 
@@ -26,7 +26,7 @@
 
 <h2>Other Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,regex,figma,npm,powershell,pr,stackoverflow,selenium,unreal&theme=dark)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=bash,regex,npm,powershell,pr,stackoverflow,selenium&theme=dark)](https://skillicons.dev) 
 
 
 ![Currently](https://img.shields.io/badge/currently-online-green?style=flat-square)
