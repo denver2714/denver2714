@@ -18,7 +18,7 @@
 
 <h2>Languages and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal&theme=dark&perline=8)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal&theme=dark)](https://skillicons.dev)  
 
 
 <h2>Databases </h2>
