@@ -34,6 +34,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev) 
 
 <h2>Other Tools </h2>
+
 [![My Skills](https://skillicons.dev/icons?i=bash,regex,figma,npm,powershell,pr,stackoverflow,selenium,unreal&theme=dark)](https://skillicons.dev) 
 
 
