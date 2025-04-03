@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact **C++ was my first programming language**
 
+  ![Profile Views](https://komarev.com/ghpvc/?username=denver2714&color=blue)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_dnvvrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dnvvrrr" height="30" width="40" /></a>
@@ -44,7 +46,7 @@
 ![Currently](https://img.shields.io/badge/currently-online-green?style=flat-square)
 ![Coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat-square&logo=visualstudiocode)
 ![Listening](https://img.shields.io/badge/listening%20to-nothing%20rn-green?style=flat-square&logo=spotify)
-![Profile Views](https://komarev.com/ghpvc/?username=denver2714&color=blue)
+
 
 
 
