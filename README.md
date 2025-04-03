@@ -2,7 +2,7 @@
 <p>I love coding, though there are times when I feel frustrated by it. But overall, coding is a passion of mine!</p>
 
 
-<h2>Languages </h2>
+<h2>Languages</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts&theme=dark)](https://skillicons.dev)  
 
@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet&theme=dark)](https://skillicons.dev)
 
 
-<h2>Development Tools:</h2>
+<h2>Development Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm&theme=dark)](https://skillicons.dev)
 
@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql&theme=dark)](https://skillicons.dev)
 
 
-<h2>Operating Systems: </h2>
+<h2>Operating Systems</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=apple,linux,ubuntu,windows&theme=dark)](https://skillicons.dev) 
 
@@ -29,7 +29,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev) 
 
-<h2>Other Tools </h2>
+<h2>Other Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=bash,regex,figma,npm,powershell,pr,stackoverflow,selenium,unreal&theme=dark)](https://skillicons.dev) 
 
