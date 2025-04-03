@@ -5,7 +5,6 @@
 ![Playing](https://img.shields.io/badge/playing-nothing%20rn-blue?style=flat-square)
 ![Coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat-square&logo=visualstudiocode)
 ![Listening](https://img.shields.io/badge/listening%20to-nothing%20rn-green?style=flat-square&logo=spotify)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=denver2714&color=blue)
 
 
