@@ -28,7 +28,7 @@
 
 <h2>Development Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm,sublime&theme=dark)](https://skillicons.dev)
 
 
 <h2>Operating Systems</h2>
