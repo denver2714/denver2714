@@ -10,12 +10,6 @@
 
   ![Profile Views](https://komarev.com/ghpvc/?username=denver2714&color=blue)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_dnvvrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dnvvrrr" height="30" width="40" /></a>
-</p>
-
-
 <h2>Languages and Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,figma,unreal,bash,regex,npm,powershell,pr,stackoverflow,selenium&theme=dark)](https://skillicons.dev)  
