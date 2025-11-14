@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denver</h1>
 
-- 🌱 I’m currently learning **NextJS and Redux**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **Move Semantics, Pointer Ownership, and Memory Management**
 
