@@ -34,5 +34,5 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev) 
 
 ![Currently](https://img.shields.io/badge/currently-online-green?style=flat-square)
-![Coding](https://img.shields.io/badge/coding-the-universe%20rn-blue?style=flat-square&logo=visualstudiocode)
+![Coding](https://img.shields.io/badge/coding-myself%20rn-blue?style=flat-square&logo=visualstudiocode)
 ![Listening](https://img.shields.io/badge/listening%20to-keshi%20rn-green?style=flat-square&logo=spotify)
