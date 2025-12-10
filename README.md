@@ -36,14 +36,3 @@
 ![Currently](https://img.shields.io/badge/currently-online-green?style=flat-square)
 ![Coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat-square&logo=visualstudiocode)
 ![Listening](https://img.shields.io/badge/listening%20to-nothing%20rn-green?style=flat-square&logo=spotify)
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denver2714&show_icons=true&locale=en&layout=compact" alt="denver2714" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denver2714&show_icons=true&locale=en" alt="denver2714" /></p>
-
-
- 
-
