@@ -4,8 +4,6 @@
 
 - 💬 Ask me about **Move Semantics, Pointer Ownership, and Memory Management**
 
-- 📫 How to reach me **kurtdenverchavez2005@gmail.com**
-
 - ⚡ Fun fact **C++ was my first programming language**
 
   ![Profile Views](https://komarev.com/ghpvc/?username=denver2714&color=blue)
