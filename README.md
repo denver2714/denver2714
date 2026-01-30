@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denver</h1>
 
-- 🌱 I’m currently learning **NextJS as Full-stack**
+- 🌱 I’m currently learning **WebSocket**
 
 - 💬 Ask me about **Move Semantics, Pointer Ownership, and Memory Management**
 
