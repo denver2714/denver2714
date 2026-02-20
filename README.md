@@ -28,7 +28,9 @@
     </picture>
   </div>
 
-
-![Currently](https://img.shields.io/badge/currently-online-green?style=flat-square)
-![Coding](https://img.shields.io/badge/coding-myself%20rn-blue?style=flat-square&logo=visualstudiocode)
-![Listening](https://img.shields.io/badge/listening%20to-keshi%20rn-green?style=flat-square&logo=spotify)
+  
+<div align="center">
+  <a href="https://open.spotify.com/user/wjwqa7gw138gs6efbc3aywhdu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wjwqa7gw138gs6efbc3aywhdu" alt="Spotify Recently Played">
+  </a>
+</div>
