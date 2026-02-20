@@ -13,8 +13,6 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,php,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,express,figma,unreal,bash,regex,npm,pytorch,powershell,nodejs,postman,prisma,netlify,stackoverflow,selenium,postgresql,sqlite,mysql,apple,linux,ubuntu,windows,git,replit&theme=dark)](https://skillicons.dev)
 
 
-
-
   <summary><b>⚙️ GitHub Analytics</b></summary>
   <br>
   <a href="https://github.com/denver2714">
@@ -23,8 +21,6 @@
   </a>
 
 
-<details>
-  <summary><b>🐍 Contribution Snake</b></summary>
   <br>
   <div align="center">
     <picture>
@@ -33,7 +29,7 @@
       <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake.svg">
     </picture>
   </div>
-</details>
+
 
 ![Currently](https://img.shields.io/badge/currently-online-green?style=flat-square)
 ![Coding](https://img.shields.io/badge/coding-myself%20rn-blue?style=flat-square&logo=visualstudiocode)
