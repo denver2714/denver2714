@@ -33,6 +33,6 @@
   <summary><b>🏙️ 3D Contribution City</b></summary>
   <br>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions">
+    <img src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-3d-contrib/profile-night-green-animate.svg" alt="3D GitHub Contributions">
   </div>
 </details>
