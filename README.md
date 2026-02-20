@@ -30,9 +30,9 @@
 
   
 <details>
-  <summary><b>🏙️ 3D Contribution City</b></summary>
+  <summary><b>🌃 3D Contribution City</b></summary>
   <br>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-3d-contrib/profile-night-green-animate.svg" alt="3D GitHub Contributions">
+    <img src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contributions Dark Mode">
   </div>
 </details>
