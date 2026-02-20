@@ -17,7 +17,7 @@
 <details>
   <summary><b>⚙️ GitHub Analytics</b></summary>
   <br>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/denver2714">
     <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
     <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
   </a>
