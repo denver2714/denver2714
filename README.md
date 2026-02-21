@@ -1,7 +1,6 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:FFA500,100:FFD700&text=Denver&fontSize=70&fontColor=ffffff&fontAlignY=45&stroke=ffffff&strokeWidth=2" alt="Orange Blur Header" />
-</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=42A5F5&text=Denver&fontSize=55&fontColor=ffffff&fontAlignY=45&stroke=ffffff&strokeWidth=1.5" alt="Small Blue Blur Header" />
+</p>
 
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=fca311&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+with+AI+%2B+Node.js;Exploring+Hugging+Face+Inference" alt="Typing SVG" />
