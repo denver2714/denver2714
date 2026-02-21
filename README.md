@@ -4,48 +4,42 @@
 
 </h1>
 
-
-
-
-
-<h1>
+<h1 align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=fca311&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+with+AI+%2B+Node.js;Exploring+Hugging+Face+Inference" alt="Typing SVG" />
 
 </h1>
 
-
-
-
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=denver2714&color=blue)
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=denver2714&color=blue" alt="Profile Views" />
+</p>
 
 <h2>Technologies</h2>
 
-
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,php,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,express,figma,unreal,bash,regex,npm,pytorch,powershell,nodejs,postman,prisma,netlify,stackoverflow,selenium,postgresql,sqlite,mysql,apple,linux,ubuntu,windows,git,replit&theme=dark)](https://skillicons.dev)
-
-  <a href="https://github.com/denver2714">
-
-    <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-
-    <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,php,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,express,figma,unreal,bash,regex,npm,pytorch,powershell,nodejs,postman,prisma,netlify,stackoverflow,selenium,postgresql,sqlite,mysql,apple,linux,ubuntu,windows,git,replit&theme=dark" />
   </a>
+</p>
 
-  <div align="center">
+<a href="https://github.com/denver2714">
 
-    <picture>
+  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake-dark.svg">
+  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake.svg">
+</a>
 
-      <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake.svg">
+<div align="center">
 
-    </picture>
+  <picture>
 
-  </div>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake-dark.svg">
+
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake.svg">
+
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake.svg">
+
+  </picture>
+
+</div>
