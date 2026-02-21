@@ -7,19 +7,21 @@
 </h1>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=denver2714&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=denver2714&color=blue" alt="Profile Views" />
 </p>
 
 <h2 align="center">Technologies</h2>
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,php,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,express,figma,unreal,bash,regex,npm,pytorch,powershell,nodejs,postman,prisma,netlify,stackoverflow,selenium,postgresql,sqlite,mysql,apple,linux,ubuntu,windows,git,replit&theme=dark)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,js,ts,php,html,css,tailwind,bootstrap,react,nextjs,redux,vite,flask,dotnet,express,figma,unreal,bash,regex,npm,pytorch,powershell,nodejs,postman,prisma,netlify,stackoverflow,selenium,postgresql,sqlite,mysql,apple,linux,ubuntu,windows,git,replit&theme=dark" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/denver2714">
-    <img style="height: 200px;" src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-    <img style="height: 200px;" src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+    <img height="200" src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+    <img height="200" src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
   </a>
 </p>
 
