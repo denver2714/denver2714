@@ -17,10 +17,10 @@
     <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
     <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/denver2714/denver2714/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
   </a>
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake.svg">
-      <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake.svg">
-    </picture>
-  </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
