@@ -24,3 +24,7 @@
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denver2714&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
