@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=3F6FB3&height=150&fontSize=50&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3F6FB3&height=120&section=header&text=Welcome%20to%20my%20Profile!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 
 
 <h1>
@@ -27,4 +27,4 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=364765&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3F6FB3&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
