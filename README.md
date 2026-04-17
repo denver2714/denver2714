@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3F6FB3&height=120&section=header&text=Welcome%20to%20my%20Profile!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3F6FB3&height=120&section=header&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+with+AI+%2B+Node.js;Exploring+Hugging+Face+Inference" alt="Typing SVG" />
 </h1>
@@ -25,6 +23,4 @@
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3F6FB3&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3F6FB3&height=120&section=header&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
