@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=3F6FB3&height=150&text=Denver&fontSize=50&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=3F6FB3&height=150&fontSize=50&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 
 <h1>
