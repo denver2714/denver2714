@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=3F6FB3&height=150&text=Denver%20There&fontSize=70&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=8ebde0&height=150&text=SLICE&desc=desc%20function%20is%20also%20rotated.&fontColor=333333&descColor=333333" width="100%"/>
 
 
 <h1>
