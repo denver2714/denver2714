@@ -23,4 +23,4 @@
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/denver2714/denver2714/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3F6FB3&height=120&section=header&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3F6FB3&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
